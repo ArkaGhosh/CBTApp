@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".DetailedDescription"
+            android:label="@string/title_activity_detailed_description" >
+        </activity>
+        <activity
+            android:name=".HeighteningResponse"
+            android:label="@string/title_activity_heightening_response" >
+        </activity>
     </application>
 
 </manifest>
